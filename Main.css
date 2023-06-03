@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+
+
+
+
+
+
+header  {
+    
+    background:cornflowerblue; 
+    height: 100px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+
+
+    
+
+}    
+
+header ul{ 
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+header ul li{
+padding: 20px;
+
+
+
+
+}
+
+
+
+
+
+
+main{
+
+    background-color: rgb(42, 165, 114);
+    margin: 100px;
+}
+
+article{
+
+    
+    max-width: 800px;
+   
+}
+
+
+article img{
+
+
+    max-width: 800px;
+}
+
+h2{
+
+    font-size: 50px;
+}
+
+
+footer{
+
+    background-color: black;
+}
+
+footer p{
+
+
+    color: aliceblue;
+}
