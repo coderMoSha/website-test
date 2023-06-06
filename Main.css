@@ -139,6 +139,20 @@ div img{
     align-self: center;
 }
 
+div p{
+
+align-self: center;
+
+}
+
+div video{
+
+    padding: 5px;
+
+    width: 80%;
+    align-self: center;
+}
+
 
 footer{
 
